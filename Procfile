@@ -1,1 +1,1 @@
-worker: node Schwi.js
+worker: node bot.js, Schwi
